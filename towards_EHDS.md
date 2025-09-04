@@ -1,3 +1,10 @@
+# links/references
+
+- **[European Health Data Space (EHDS)](https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space_en)**
+- **[TEHDAS2](https://tehdas.eu/)**
+- **[QUANTUM](https://quantumproject.eu/about-us/)**
+- **[VALO – Value from Nordic Health Data](https://www.sitra.fi/en/projects/value-from-nordic-health-data-valo/)**
+
 # Intro
 
 Significant opportunities exist to strengthen the Nordics countries position as leaders in
